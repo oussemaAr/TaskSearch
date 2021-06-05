@@ -1,0 +1,2 @@
+rootProject.name = "TaskSearch"
+include ':app'
