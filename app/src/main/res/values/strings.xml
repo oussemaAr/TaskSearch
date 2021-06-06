@@ -6,6 +6,6 @@
     <string name="archived">Archived</string>
     <string name="close">Close</string>
     <string name="done">Done</string>
-    <string name="empty_state">You finished your tasks Yeeeh</string>
+    <string name="empty_state">No Task found</string>
     <string name="reload">Reload</string>
 </resources>
